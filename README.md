@@ -1,101 +1,129 @@
+<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/182629546?v=4" width="160" alt="iaroslav-palekhov avatar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:EC4899&height=200&section=header&text=Iaroslav%20Palekhov&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%C2%B7%20Full-stack%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
-# Iaroslav Palekhov
+<a href="https://github.com/iaroslav-palekhov">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+useful+software;Sharing+the+work+in+public;HTML+%C2%B7+Python+%C2%B7+C%23+%C2%B7+Kotlin" alt="Typing SVG" />
+</a>
 
-### Frontend · Full-stack Engineer
+<br/>
 
-**HTML · Python · C# · Kotlin**
+<img src="https://avatars.githubusercontent.com/u/182629546?v=4" width="140" style="border-radius:50%;" alt="iaroslav-palekhov avatar" />
 
-Building useful software and sharing the work in public.
+### Hi, I'm Iaroslav 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-iaroslav--palekhov-181717?logo=github&logoColor=white)](https://github.com/iaroslav-palekhov)
+Frontend & full-stack engineer crafting clean, useful software — and sharing the process in public.
+
+[![GitHub](https://img.shields.io/badge/GitHub-iaroslav--palekhov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iaroslav-palekhov)
+[![Profile Views](https://komarev.com/ghpvc/?username=iaroslav-palekhov&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)](https://github.com/iaroslav-palekhov)
 
 </div>
 
 ---
 
-## What teams can evaluate quickly
+<!-- ============ TECH STACK ============ -->
+<div align="center">
 
-| Role fit | Public proof | Momentum |
-| :---: | :---: | :---: |
-| Frontend or full-stack engineer<br>HTML · Python · C# | **18** repositories · **3** stars | **18** contributions · **7** active days |
+### 🛠️ Tech Stack
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Proof at a glance
-
-| Repositories | Stars | Contributions | Followers |
-| :---: | :---: | :---: | :---: |
-| **18** | **3** | **18** | **1** |
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=iaroslav-palekhov&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182629546%3Fv%3D4&v=recruiter-stats-1&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=iaroslav-palekhov&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182629546%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="iaroslav-palekhov GitHub stats" />
-  </picture>
-</p>
+</div>
 
 ---
 
-## Selected work
+<!-- ============ STATS ============ -->
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=iaroslav-palekhov&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182629546%3Fv%3D4&repos=iaroslav-palekhov%2Fproton-chat%2Ciaroslav-palekhov%2FNativeExecuteMachine%2Ciaroslav-palekhov%2FITtopJournal-android-app%2Ciaroslav-palekhov%2FIaroslav-Palekhov&v=recruiter-projects-1&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=iaroslav-palekhov&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182629546%3Fv%3D4&repos=iaroslav-palekhov%2Fproton-chat%2Ciaroslav-palekhov%2FNativeExecuteMachine%2Ciaroslav-palekhov%2FITtopJournal-android-app%2Ciaroslav-palekhov%2FIaroslav-Palekhov&v=recruiter-projects-1&mode=dark" width="100%" alt="iaroslav-palekhov selected projects" />
-  </picture>
-</p>
+### 📊 GitHub Stats
 
-### [proton-chat](https://github.com/Iaroslav-Palekhov/proton-chat)
-A selected public project.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iaroslav-palekhov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaroslav-palekhov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
 
-`HTML` · ⭐ 1 · 🍴 0 — [Read the repository →](https://github.com/Iaroslav-Palekhov/proton-chat)
+<br/>
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**NativeExecuteMachine**](https://github.com/Iaroslav-Palekhov/NativeExecuteMachine) | Assembler interpreter written in C#. | `C#` · ⭐ 1 |
-| [**ITtopJournal-android-app**](https://github.com/Iaroslav-Palekhov/ITtopJournal-android-app) | Android application. | `Kotlin` · ⭐ 1 |
-| [**Iaroslav-Palekhov**](https://github.com/Iaroslav-Palekhov/Iaroslav-Palekhov) | Profile repository. | `Open source` · ⭐ 0 |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iaroslav-palekhov&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=iaroslav-palekhov&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+
+</div>
 
 ---
 
-## Technical toolkit
+<!-- ============ ACTIVITY GRAPH ============ -->
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=iaroslav-palekhov&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182629546%3Fv%3D4&v=recruiter-stack-1&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=iaroslav-palekhov&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182629546%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="iaroslav-palekhov technology stack" />
-  </picture>
-</p>
+### 📈 Contribution Activity
 
-| HTML | Python | C# | Kotlin | CSS |
-| :---: | :---: | :---: | :---: | :---: |
-| 51% | 29% | 6% | 6% | 4% |
-| of public code | of public code | of public code | of public code | of public code |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iaroslav-palekhov&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=ffffff&area=true" width="100%" alt="Activity Graph" />
+
+</div>
 
 ---
 
-## Consistency signal
+<!-- ============ SELECTED WORK ============ -->
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=iaroslav-palekhov&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182629546%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=iaroslav-palekhov&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182629546%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="iaroslav-palekhov contribution activity" />
-  </picture>
-</p>
+### 🚀 Selected Work
 
----
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 💬 [proton-chat](https://github.com/Iaroslav-Palekhov/proton-chat)
+A lightweight chat project built with a focus on clean frontend craft.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Iaroslav-Palekhov/proton-chat?style=flat-square&color=8B5CF6)
+
+[→ Read the repository](https://github.com/Iaroslav-Palekhov/proton-chat)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📱 [ITtopJournal-android-app](https://github.com/Iaroslav-Palekhov/ITtopJournal-android-app)
+An Android application written in Kotlin.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Iaroslav-Palekhov/ITtopJournal-android-app?style=flat-square&color=8B5CF6)
+
+[→ Read the repository](https://github.com/Iaroslav-Palekhov/ITtopJournal-android-app)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-## Let’s talk about the next build
+> More projects are on the way — I build in public and ship steadily.
 
-Open to thoughtful teams, ambitious products, and useful engineering work.
+</div>
 
-[![GitHub](https://img.shields.io/badge/Connect_on_GitHub-181717?logo=github&logoColor=white)](https://github.com/iaroslav-palekhov)
+---
 
-<sub>iaroslav-palekhov · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+<!-- ============ CONTACT ============ -->
+<div align="center">
+
+### 🤝 Let's build something useful
+
+Open to thoughtful teams, ambitious products, and engineering work that matters.
+
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iaroslav-palekhov)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:3B82F6&height=120&section=footer" width="100%" alt="footer" />
+
+<sub>⭐ Thanks for stopping by — feel free to explore the repositories above.</sub>
 
 </div>
