@@ -1,34 +1,25 @@
-<!-- ═══════════ HERO ═══════════ -->
+<!-- ═══════════════ HERO without dark banner ═══════════════ -->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:4C1D95,100:6366F1&height=130&section=header&text=Iaroslav%20Palekhov&fontSize=34&fontColor=FFFFFF&fontAlignY=45&desc=Frontend%20%C2%B7%20Full-stack%20Engineer&descAlignY=72&descSize=14&descColor=C4B5FD" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://capsule-render.vercel.app/api?type=rect&color=0:C7D2FE,50:818CF8,100:6366F1&height=130&section=header&text=Iaroslav%20Palekhov&fontSize=34&fontColor=1E1B4B&fontAlignY=45&desc=Frontend%20%C2%B7%20Full-stack%20Engineer&descAlignY=72&descSize=14&descColor=312E81" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:4C1D95,100:6366F1&height=130&section=header&text=Iaroslav%20Palekhov&fontSize=34&fontColor=FFFFFF&fontAlignY=45&desc=Frontend%20%C2%B7%20Full-stack%20Engineer&descAlignY=72&descSize=14&descColor=C4B5FD"
-       width="100%" alt="header" />
-</picture>
-
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/182629546&mask=circle&w=200&h=200&fit=cover"
-     width="96" alt="avatar" />
+     width="100" alt="avatar" />
 
-<br/>
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=460&lines=Building+useful+software;Sharing+the+work+in+public;HTML+%C2%B7+Python+%C2%B7+C%23+%C2%B7+Kotlin" />
+          srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=480&lines=Building+useful+software;Sharing+the+work+in+public;HTML+%C2%B7+Python+%C2%B7+C%23+%C2%B7+Kotlin" />
   <source media="(prefers-color-scheme: light)"
-          srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=900&color=4C1D95&center=true&vCenter=true&width=460&lines=Building+useful+software;Sharing+the+work+in+public;HTML+%C2%B7+Python+%C2%B7+C%23+%C2%B7+Kotlin" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=460&lines=Building+useful+software;Sharing+the+work+in+public;HTML+%C2%B7+Python+%C2%B7+C%23+%C2%B7+Kotlin"
+          srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=4C1D95&center=true&vCenter=true&width=480&lines=Building+useful+software;Sharing+the+work+in+public;HTML+%C2%B7+Python+%C2%B7+C%23+%C2%B7+Kotlin" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=480&lines=Building+useful+software;Sharing+the+work+in+public;HTML+%C2%B7+Python+%C2%B7+C%23+%C2%B7+Kotlin"
        alt="about" />
 </picture>
 
-<br/>
+<br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-iaroslav--palekhov-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/iaroslav-palekhov)
-[![Visitors](https://komarev.com/ghpvc/?username=iaroslav-palekhov&style=flat-square&color=6366F1&label=visitors)](https://github.com/iaroslav-palekhov)
+[![Followers](https://img.shields.io/github/followers/iaroslav-palekhov?style=flat-square&color=6366F1&label=followers)](https://github.com/iaroslav-palekhov)
 
 </div>
 
@@ -59,19 +50,19 @@ and small tools that solve real problems.
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api?username=iaroslav-palekhov&show_icons=true&hide_border=true&bg_color=0A0A1A&title_color=C4B5FD&icon_color=818CF8&text_color=E0E7FF&include_all_commits=true&count_private=true&rank_icon=github" />
+          srcset="https://github-stats-extended.vercel.app/api?username=iaroslav-palekhov&show_icons=true&hide_border=true&bg_color=0A0A1A&title_color=C4B5FD&icon_color=818CF8&text_color=E0E7FF&include_all_commits=true&count_private=true&rank_icon=github" />
   <source media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api?username=iaroslav-palekhov&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=4C1D95&icon_color=6366F1&text_color=1E1B4B&include_all_commits=true&count_private=true&rank_icon=github" />
+          srcset="https://github-stats-extended.vercel.app/api?username=iaroslav-palekhov&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=4C1D95&icon_color=6366F1&text_color=1E1B4B&include_all_commits=true&count_private=true&rank_icon=github" />
   <img height="160" alt="stats"
-       src="https://github-readme-stats.vercel.app/api?username=iaroslav-palekhov&show_icons=true&hide_border=true&bg_color=0A0A1A&title_color=C4B5FD&icon_color=818CF8&text_color=E0E7FF&rank_icon=github" />
+       src="https://github-stats-extended.vercel.app/api?username=iaroslav-palekhov&show_icons=true&hide_border=true&bg_color=0A0A1A&title_color=C4B5FD&icon_color=818CF8&text_color=E0E7FF&rank_icon=github" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iaroslav-palekhov&layout=compact&hide_border=true&bg_color=0A0A1A&title_color=C4B5FD&text_color=E0E7FF&langs_count=6" />
+          srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=iaroslav-palekhov&layout=compact&hide_border=true&bg_color=0A0A1A&title_color=C4B5FD&text_color=E0E7FF&langs_count=6" />
   <source media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iaroslav-palekhov&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=4C1D95&text_color=1E1B4B&langs_count=6" />
+          srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=iaroslav-palekhov&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=4C1D95&text_color=1E1B4B&langs_count=6" />
   <img height="160" alt="langs"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaroslav-palekhov&layout=compact&hide_border=true&bg_color=0A0A1A&title_color=C4B5FD&text_color=E0E7FF&langs_count=6" />
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=iaroslav-palekhov&layout=compact&hide_border=true&bg_color=0A0A1A&title_color=C4B5FD&text_color=E0E7FF&langs_count=6" />
 </picture>
 
 <br/>
